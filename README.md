@@ -20,7 +20,8 @@ It starts simulating
 set alarm for CPU usage "If it  goes above 50% so that it will automatically sent notification through mail" 
 ![image](https://github.com/ShrutiGavali/AWS-CloudWatch/assets/122098190/3f4780d6-5441-4aeb-a0fb-48aea24250f7)
 # It send alert through email as shown in below image
-![image](https://github.com/ShrutiGavali/AWS-CloudWatch/assets/122098190/7bd3de1a-9ccc-4d82-91df-d99222d57047)
+![image](https://github.com/ShrutiGavali/AWS-CloudWatch/assets/122098190/dd2f0a10-faa7-41cd-ab96-bc4ce74a3c77)
+
 
 
 
